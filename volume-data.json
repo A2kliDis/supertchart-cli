@@ -1,0 +1,3782 @@
+{
+  "BTC/USDT": [
+    {
+      "timestamp": 1756474531553,
+      "volume": 1810577172.866579
+    },
+    {
+      "timestamp": 1756475631369,
+      "volume": 1865232251.1299448
+    },
+    {
+      "timestamp": 1756475650250,
+      "volume": 1865118320.6448429
+    },
+    {
+      "timestamp": 1756475666640,
+      "volume": 1865275693.927577
+    },
+    {
+      "timestamp": 1756475676894,
+      "volume": 1865155315.5469615
+    },
+    {
+      "timestamp": 1756475694000,
+      "volume": 1865672607.7728314
+    }
+  ],
+  "ETH/USDT": [
+    {
+      "timestamp": 1756474531832,
+      "volume": 2871470552.164044
+    },
+    {
+      "timestamp": 1756475631968,
+      "volume": 2883690682.368108
+    },
+    {
+      "timestamp": 1756475650912,
+      "volume": 2879930421.204079
+    },
+    {
+      "timestamp": 1756475667293,
+      "volume": 2878394606.387118
+    },
+    {
+      "timestamp": 1756475677501,
+      "volume": 2878387796.016826
+    },
+    {
+      "timestamp": 1756475694565,
+      "volume": 2877452710.729049
+    }
+  ],
+  "BNB/USDT": [
+    {
+      "timestamp": 1756474532094,
+      "volume": 196072612.92193
+    },
+    {
+      "timestamp": 1756475632684,
+      "volume": 193754581.07126
+    },
+    {
+      "timestamp": 1756475651597,
+      "volume": 193860395.42873
+    },
+    {
+      "timestamp": 1756475667914,
+      "volume": 193756316.15285
+    },
+    {
+      "timestamp": 1756475678061,
+      "volume": 193715426.83165
+    },
+    {
+      "timestamp": 1756475695131,
+      "volume": 193651216.19569
+    }
+  ],
+  "BCC/USDT": [
+    {
+      "timestamp": 1756474532419,
+      "volume": 0
+    },
+    {
+      "timestamp": 1756475633775,
+      "volume": 0
+    },
+    {
+      "timestamp": 1756475652754,
+      "volume": 0
+    },
+    {
+      "timestamp": 1756475668576,
+      "volume": 0
+    },
+    {
+      "timestamp": 1756475678626,
+      "volume": 0
+    },
+    {
+      "timestamp": 1756475695726,
+      "volume": 0
+    }
+  ],
+  "NEO/USDT": [
+    {
+      "timestamp": 1756474532702,
+      "volume": 10390731.51023
+    },
+    {
+      "timestamp": 1756475634438,
+      "volume": 10577569.90907
+    }
+  ],
+  "LTC/USDT": [
+    {
+      "timestamp": 1756474532969,
+      "volume": 43972483.5413
+    },
+    {
+      "timestamp": 1756475635006,
+      "volume": 44967155.21726
+    },
+    {
+      "timestamp": 1756475653648,
+      "volume": 44929570.64755
+    },
+    {
+      "timestamp": 1756475669527,
+      "volume": 44927974.85321
+    },
+    {
+      "timestamp": 1756475679471,
+      "volume": 44926912.80034
+    },
+    {
+      "timestamp": 1756475696646,
+      "volume": 44928821.7836
+    }
+  ],
+  "QTUM/USDT": [
+    {
+      "timestamp": 1756474533233,
+      "volume": 10891371.968
+    },
+    {
+      "timestamp": 1756475635559,
+      "volume": 10940705.4669
+    }
+  ],
+  "ADA/USDT": [
+    {
+      "timestamp": 1756474533505,
+      "volume": 158900152.41055
+    },
+    {
+      "timestamp": 1756475636202,
+      "volume": 161635966.70941
+    },
+    {
+      "timestamp": 1756475655109,
+      "volume": 161495600.85356
+    },
+    {
+      "timestamp": 1756475670515,
+      "volume": 161484804.50392
+    },
+    {
+      "timestamp": 1756475680350,
+      "volume": 161485639.39639
+    },
+    {
+      "timestamp": 1756475697586,
+      "volume": 161457189.51886
+    }
+  ],
+  "XRP/USDT": [
+    {
+      "timestamp": 1756474533797,
+      "volume": 405868335.79235
+    },
+    {
+      "timestamp": 1756475637228,
+      "volume": 412819757.33017
+    },
+    {
+      "timestamp": 1756475656165,
+      "volume": 412936032.85617
+    },
+    {
+      "timestamp": 1756475671103,
+      "volume": 412919825.86229
+    },
+    {
+      "timestamp": 1756475680919,
+      "volume": 412909147.82818
+    },
+    {
+      "timestamp": 1756475698221,
+      "volume": 412899312.81087
+    }
+  ],
+  "EOS/USDT": [
+    {
+      "timestamp": 1756474534086,
+      "volume": 924391.64369
+    },
+    {
+      "timestamp": 1756475638283,
+      "volume": 924391.64369
+    },
+    {
+      "timestamp": 1756475656852,
+      "volume": 924391.64369
+    },
+    {
+      "timestamp": 1756475671740,
+      "volume": 924391.64369
+    },
+    {
+      "timestamp": 1756475681509,
+      "volume": 924391.64369
+    },
+    {
+      "timestamp": 1756475698868,
+      "volume": 924391.64369
+    }
+  ],
+  "TUSD/USDT": [
+    {
+      "timestamp": 1756474534432,
+      "volume": 1235329.7002
+    }
+  ],
+  "IOTA/USDT": [
+    {
+      "timestamp": 1756474534716,
+      "volume": 3635779.1466
+    }
+  ],
+  "XLM/USDT": [
+    {
+      "timestamp": 1756474534999,
+      "volume": 37920254.4303
+    }
+  ],
+  "ONT/USDT": [
+    {
+      "timestamp": 1756474535274,
+      "volume": 4041622.0547
+    }
+  ],
+  "TRX/USDT": [
+    {
+      "timestamp": 1756474535553,
+      "volume": 150055212.38412
+    }
+  ],
+  "ETC/USDT": [
+    {
+      "timestamp": 1756474535859,
+      "volume": 12515784.6377
+    }
+  ],
+  "ICX/USDT": [
+    {
+      "timestamp": 1756474536146,
+      "volume": 631404.23011
+    }
+  ],
+  "VEN/USDT": [
+    {
+      "timestamp": 1756474536416,
+      "volume": 0
+    }
+  ],
+  "NULS/USDT": [
+    {
+      "timestamp": 1756474536727,
+      "volume": 158334.2691
+    }
+  ],
+  "VET/USDT": [
+    {
+      "timestamp": 1756474537084,
+      "volume": 10288129.675994
+    }
+  ],
+  "PAX/USDT": [
+    {
+      "timestamp": 1756474537724,
+      "volume": 0
+    }
+  ],
+  "BCHABC/USDT": [
+    {
+      "timestamp": 1756474537977,
+      "volume": 0
+    }
+  ],
+  "BSV/USDT": [
+    {
+      "timestamp": 1756474538225,
+      "volume": 0
+    }
+  ],
+  "USDC/USDT": [
+    {
+      "timestamp": 1756474538487,
+      "volume": 2024544197.6501
+    }
+  ],
+  "LINK/USDT": [
+    {
+      "timestamp": 1756474538764,
+      "volume": 401126456.445
+    }
+  ],
+  "WAVES/USDT": [
+    {
+      "timestamp": 1756474539032,
+      "volume": 438682.24606
+    }
+  ],
+  "BTT/USDT": [
+    {
+      "timestamp": 1756474539312,
+      "volume": 0
+    }
+  ],
+  "USDS/USDT": [
+    {
+      "timestamp": 1756474539574,
+      "volume": 0
+    }
+  ],
+  "ONG/USDT": [
+    {
+      "timestamp": 1756474539843,
+      "volume": 1420013.6944
+    }
+  ],
+  "HOT/USDT": [
+    {
+      "timestamp": 1756474540405,
+      "volume": 1090147.084183
+    }
+  ],
+  "ZIL/USDT": [
+    {
+      "timestamp": 1756474540718,
+      "volume": 2836879.177034
+    }
+  ],
+  "ZRX/USDT": [
+    {
+      "timestamp": 1756474541014,
+      "volume": 2397278.6144
+    }
+  ],
+  "FET/USDT": [
+    {
+      "timestamp": 1756474541322,
+      "volume": 12224162.8249
+    }
+  ],
+  "BAT/USDT": [
+    {
+      "timestamp": 1756474541619,
+      "volume": 3984968.6052
+    }
+  ],
+  "XMR/USDT": [
+    {
+      "timestamp": 1756474541909,
+      "volume": 574681.0774
+    }
+  ],
+  "ZEC/USDT": [
+    {
+      "timestamp": 1756474542207,
+      "volume": 2529302.15392
+    }
+  ],
+  "IOST/USDT": [
+    {
+      "timestamp": 1756474542531,
+      "volume": 1360543.248928
+    }
+  ],
+  "CELR/USDT": [
+    {
+      "timestamp": 1756474542828,
+      "volume": 2099622.297415
+    }
+  ],
+  "DASH/USDT": [
+    {
+      "timestamp": 1756474543134,
+      "volume": 1454975.92036
+    }
+  ],
+  "NANO/USDT": [
+    {
+      "timestamp": 1756474543483,
+      "volume": 0
+    }
+  ],
+  "OMG/USDT": [
+    {
+      "timestamp": 1756474543773,
+      "volume": 683758.0092
+    }
+  ],
+  "THETA/USDT": [
+    {
+      "timestamp": 1756474544156,
+      "volume": 4684732.5095
+    }
+  ],
+  "ENJ/USDT": [
+    {
+      "timestamp": 1756474544481,
+      "volume": 1515429.65518
+    }
+  ],
+  "MITH/USDT": [
+    {
+      "timestamp": 1756474544840,
+      "volume": 414287.123678
+    }
+  ],
+  "MATIC/USDT": [
+    {
+      "timestamp": 1756474545135,
+      "volume": 1074370.70255
+    }
+  ],
+  "ATOM/USDT": [
+    {
+      "timestamp": 1756474545446,
+      "volume": 10768334.11812
+    }
+  ],
+  "TFUEL/USDT": [
+    {
+      "timestamp": 1756474545737,
+      "volume": 757011.21898
+    }
+  ],
+  "ONE/USDT": [
+    {
+      "timestamp": 1756474546021,
+      "volume": 1673854.680399
+    }
+  ],
+  "FTM/USDT": [
+    {
+      "timestamp": 1756474546322,
+      "volume": 1301242.2442
+    }
+  ],
+  "ALGO/USDT": [
+    {
+      "timestamp": 1756474546624,
+      "volume": 11015533.1412
+    }
+  ],
+  "USDSB/USDT": [
+    {
+      "timestamp": 1756474546925,
+      "volume": 0
+    }
+  ],
+  "GTO/USDT": [
+    {
+      "timestamp": 1756474547243,
+      "volume": 534484.499351
+    }
+  ],
+  "ERD/USDT": [
+    {
+      "timestamp": 1756474547551,
+      "volume": 0
+    }
+  ],
+  "DOGE/USDT": [
+    {
+      "timestamp": 1756474547892,
+      "volume": 261403271.01187
+    }
+  ],
+  "DUSK/USDT": [
+    {
+      "timestamp": 1756474548261,
+      "volume": 878088.0039
+    }
+  ],
+  "ANKR/USDT": [
+    {
+      "timestamp": 1756474548562,
+      "volume": 1466781.998446
+    }
+  ],
+  "WIN/USDT": [
+    {
+      "timestamp": 1756474548865,
+      "volume": 550530.33628408
+    }
+  ],
+  "COS/USDT": [
+    {
+      "timestamp": 1756474549171,
+      "volume": 1099941.1147439
+    }
+  ],
+  "NPXS/USDT": [
+    {
+      "timestamp": 1756474549450,
+      "volume": 0
+    }
+  ],
+  "COCOS/USDT": [
+    {
+      "timestamp": 1756474549735,
+      "volume": 1531715.9424
+    }
+  ],
+  "MTL/USDT": [
+    {
+      "timestamp": 1756474550022,
+      "volume": 607703.1603
+    }
+  ],
+  "TOMO/USDT": [
+    {
+      "timestamp": 1756474550332,
+      "volume": 1094187.90188
+    }
+  ],
+  "PERL/USDT": [
+    {
+      "timestamp": 1756474550630,
+      "volume": 359284.384562
+    }
+  ],
+  "DENT/USDT": [
+    {
+      "timestamp": 1756474550924,
+      "volume": 975536.70588
+    }
+  ],
+  "MFT/USDT": [
+    {
+      "timestamp": 1756474551219,
+      "volume": 746802.044777
+    }
+  ],
+  "KEY/USDT": [
+    {
+      "timestamp": 1756474551753,
+      "volume": 119194.804217
+    }
+  ],
+  "STORM/USDT": [
+    {
+      "timestamp": 1756474552053,
+      "volume": 0
+    }
+  ],
+  "DOCK/USDT": [
+    {
+      "timestamp": 1756474552330,
+      "volume": 471080.89641
+    }
+  ],
+  "WAN/USDT": [
+    {
+      "timestamp": 1756474552709,
+      "volume": 321157.2032
+    }
+  ],
+  "FUN/USDT": [
+    {
+      "timestamp": 1756474552973,
+      "volume": 2014781.121364
+    }
+  ],
+  "CVC/USDT": [
+    {
+      "timestamp": 1756474553251,
+      "volume": 441240.288
+    }
+  ],
+  "CHZ/USDT": [
+    {
+      "timestamp": 1756474553533,
+      "volume": 3220881.37383
+    }
+  ],
+  "BAND/USDT": [
+    {
+      "timestamp": 1756474553831,
+      "volume": 3833761.3489
+    }
+  ],
+  "BUSD/USDT": [
+    {
+      "timestamp": 1756474554126,
+      "volume": 1692463.3392
+    }
+  ],
+  "BEAM/USDT": [
+    {
+      "timestamp": 1756474554397,
+      "volume": 739250.4197
+    }
+  ],
+  "XTZ/USDT": [
+    {
+      "timestamp": 1756474554729,
+      "volume": 4159469.40007
+    }
+  ],
+  "REN/USDT": [
+    {
+      "timestamp": 1756474555020,
+      "volume": 476205.42629
+    }
+  ],
+  "RVN/USDT": [
+    {
+      "timestamp": 1756474555325,
+      "volume": 1565796.934245
+    }
+  ],
+  "HC/USDT": [
+    {
+      "timestamp": 1756474555629,
+      "volume": 0
+    }
+  ],
+  "HBAR/USDT": [
+    {
+      "timestamp": 1756474555940,
+      "volume": 55931098.98622
+    }
+  ],
+  "NKN/USDT": [
+    {
+      "timestamp": 1756474556236,
+      "volume": 703194.628
+    }
+  ],
+  "STX/USDT": [
+    {
+      "timestamp": 1756474556519,
+      "volume": 2846483.2331
+    }
+  ],
+  "KAVA/USDT": [
+    {
+      "timestamp": 1756474556810,
+      "volume": 6854762.77574
+    }
+  ],
+  "ARPA/USDT": [
+    {
+      "timestamp": 1756474557095,
+      "volume": 2017431.958947
+    }
+  ],
+  "IOTX/USDT": [
+    {
+      "timestamp": 1756474557435,
+      "volume": 1387818.69223
+    }
+  ],
+  "RLC/USDT": [
+    {
+      "timestamp": 1756474558016,
+      "volume": 14197284.4398
+    }
+  ],
+  "MCO/USDT": [
+    {
+      "timestamp": 1756474558316,
+      "volume": 0
+    }
+  ],
+  "CTXC/USDT": [
+    {
+      "timestamp": 1756474558623,
+      "volume": 266988.9592
+    }
+  ],
+  "BCH/USDT": [
+    {
+      "timestamp": 1756474558918,
+      "volume": 45242047.7215
+    }
+  ],
+  "TROY/USDT": [
+    {
+      "timestamp": 1756474559232,
+      "volume": 144294.082243
+    }
+  ],
+  "VITE/USDT": [
+    {
+      "timestamp": 1756474559522,
+      "volume": 234222.031484
+    }
+  ],
+  "FTT/USDT": [
+    {
+      "timestamp": 1756474559824,
+      "volume": 796124.94668
+    }
+  ],
+  "EUR/USDT": [
+    {
+      "timestamp": 1756474560129,
+      "volume": 16578995.15232
+    }
+  ],
+  "OGN/USDT": [
+    {
+      "timestamp": 1756474560469,
+      "volume": 1106359.6908
+    }
+  ],
+  "DREP/USDT": [
+    {
+      "timestamp": 1756474560791,
+      "volume": 404593.4049
+    }
+  ],
+  "BULL/USDT": [
+    {
+      "timestamp": 1756474561113,
+      "volume": 0
+    }
+  ],
+  "BEAR/USDT": [
+    {
+      "timestamp": 1756474561392,
+      "volume": 0
+    }
+  ],
+  "ETHBULL/USDT": [
+    {
+      "timestamp": 1756474561673,
+      "volume": 0
+    }
+  ],
+  "ETHBEAR/USDT": [
+    {
+      "timestamp": 1756474561983,
+      "volume": 0
+    }
+  ],
+  "TCT/USDT": [
+    {
+      "timestamp": 1756474562295,
+      "volume": 502387.03863
+    }
+  ],
+  "WRX/USDT": [
+    {
+      "timestamp": 1756474562589,
+      "volume": 400903.64233
+    }
+  ],
+  "BTS/USDT": [
+    {
+      "timestamp": 1756474562882,
+      "volume": 262741.669508
+    }
+  ],
+  "LSK/USDT": [
+    {
+      "timestamp": 1756474563217,
+      "volume": 832314.6181
+    }
+  ],
+  "BNT/USDT": [
+    {
+      "timestamp": 1756474563587,
+      "volume": 320706.7179
+    }
+  ],
+  "LTO/USDT": [
+    {
+      "timestamp": 1756474563877,
+      "volume": 410367.5303
+    }
+  ],
+  "EOSBULL/USDT": [
+    {
+      "timestamp": 1756474564582,
+      "volume": 0
+    }
+  ],
+  "EOSBEAR/USDT": [
+    {
+      "timestamp": 1756474564860,
+      "volume": 0
+    }
+  ],
+  "XRPBULL/USDT": [
+    {
+      "timestamp": 1756474565151,
+      "volume": 0
+    }
+  ],
+  "XRPBEAR/USDT": [
+    {
+      "timestamp": 1756474565426,
+      "volume": 0
+    }
+  ],
+  "STRAT/USDT": [
+    {
+      "timestamp": 1756474565728,
+      "volume": 0
+    }
+  ],
+  "AION/USDT": [
+    {
+      "timestamp": 1756474565995,
+      "volume": 569915.46452
+    }
+  ],
+  "MBL/USDT": [
+    {
+      "timestamp": 1756474566302,
+      "volume": 2430585.334415
+    }
+  ],
+  "COTI/USDT": [
+    {
+      "timestamp": 1756474566609,
+      "volume": 994732.1024
+    }
+  ],
+  "BNBBULL/USDT": [
+    {
+      "timestamp": 1756474567032,
+      "volume": 0
+    }
+  ],
+  "BNBBEAR/USDT": [
+    {
+      "timestamp": 1756474567320,
+      "volume": 0
+    }
+  ],
+  "STPT/USDT": [
+    {
+      "timestamp": 1756474567660,
+      "volume": 463191.942588
+    }
+  ],
+  "WTC/USDT": [
+    {
+      "timestamp": 1756474567955,
+      "volume": 485356.1247
+    }
+  ],
+  "DATA/USDT": [
+    {
+      "timestamp": 1756474568244,
+      "volume": 515205.867154
+    }
+  ],
+  "XZC/USDT": [
+    {
+      "timestamp": 1756474568531,
+      "volume": 0
+    }
+  ],
+  "SOL/USDT": [
+    {
+      "timestamp": 1756474568812,
+      "volume": 1757658659.73392
+    }
+  ],
+  "CTSI/USDT": [
+    {
+      "timestamp": 1756474569166,
+      "volume": 27278633.866
+    }
+  ],
+  "HIVE/USDT": [
+    {
+      "timestamp": 1756474569447,
+      "volume": 1066751.9581
+    }
+  ],
+  "CHR/USDT": [
+    {
+      "timestamp": 1756474569729,
+      "volume": 4316235.172
+    }
+  ],
+  "BTCUP/USDT": [
+    {
+      "timestamp": 1756474570008,
+      "volume": 145601.81642
+    }
+  ],
+  "BTCDOWN/USDT": [
+    {
+      "timestamp": 1756474570283,
+      "volume": 158025.63900515
+    }
+  ],
+  "GXS/USDT": [
+    {
+      "timestamp": 1756474570603,
+      "volume": 0
+    }
+  ],
+  "ARDR/USDT": [
+    {
+      "timestamp": 1756474570910,
+      "volume": 307697.89951
+    }
+  ],
+  "LEND/USDT": [
+    {
+      "timestamp": 1756474571207,
+      "volume": 0
+    }
+  ],
+  "MDT/USDT": [
+    {
+      "timestamp": 1756474571487,
+      "volume": 975488.301046
+    }
+  ],
+  "STMX/USDT": [
+    {
+      "timestamp": 1756474571773,
+      "volume": 290032.911534
+    }
+  ],
+  "KNC/USDT": [
+    {
+      "timestamp": 1756474572058,
+      "volume": 1468243.8684
+    }
+  ],
+  "REP/USDT": [
+    {
+      "timestamp": 1756474572351,
+      "volume": 473556.1177
+    }
+  ],
+  "LRC/USDT": [
+    {
+      "timestamp": 1756474572634,
+      "volume": 1437367.4045
+    }
+  ],
+  "PNT/USDT": [
+    {
+      "timestamp": 1756474572922,
+      "volume": 261845.0621
+    }
+  ],
+  "COMP/USDT": [
+    {
+      "timestamp": 1756474573218,
+      "volume": 2879632.21131
+    }
+  ],
+  "BKRW/USDT": [
+    {
+      "timestamp": 1756474573505,
+      "volume": 0
+    }
+  ],
+  "SC/USDT": [
+    {
+      "timestamp": 1756474573791,
+      "volume": 658546.344637
+    }
+  ],
+  "ZEN/USDT": [
+    {
+      "timestamp": 1756474574485,
+      "volume": 10982506.00522
+    }
+  ],
+  "SNX/USDT": [
+    {
+      "timestamp": 1756474575190,
+      "volume": 2491680.5301
+    }
+  ],
+  "ETHUP/USDT": [
+    {
+      "timestamp": 1756474575468,
+      "volume": 458839.22967
+    }
+  ],
+  "ETHDOWN/USDT": [
+    {
+      "timestamp": 1756474575741,
+      "volume": 188012.9533868
+    }
+  ],
+  "ADAUP/USDT": [
+    {
+      "timestamp": 1756474576459,
+      "volume": 416106.83641
+    }
+  ],
+  "ADADOWN/USDT": [
+    {
+      "timestamp": 1756474576731,
+      "volume": 648364.02209361
+    }
+  ],
+  "LINKUP/USDT": [
+    {
+      "timestamp": 1756474576999,
+      "volume": 167216.5448973
+    }
+  ],
+  "LINKDOWN/USDT": [
+    {
+      "timestamp": 1756474577705,
+      "volume": 110306.82076548
+    }
+  ],
+  "VTHO/USDT": [
+    {
+      "timestamp": 1756474577993,
+      "volume": 691706.801323
+    }
+  ],
+  "DGB/USDT": [
+    {
+      "timestamp": 1756474578271,
+      "volume": 632056.280877
+    }
+  ],
+  "GBP/USDT": [
+    {
+      "timestamp": 1756474578534,
+      "volume": 213136.9666
+    }
+  ],
+  "SXP/USDT": [
+    {
+      "timestamp": 1756474579273,
+      "volume": 7233415.51849
+    }
+  ],
+  "MKR/USDT": [
+    {
+      "timestamp": 1756474579548,
+      "volume": 6779004.25921
+    }
+  ],
+  "DAI/USDT": [
+    {
+      "timestamp": 1756474579818,
+      "volume": 0
+    }
+  ],
+  "DCR/USDT": [
+    {
+      "timestamp": 1756474580090,
+      "volume": 326854.98686
+    }
+  ],
+  "STORJ/USDT": [
+    {
+      "timestamp": 1756474580395,
+      "volume": 780715.1233
+    }
+  ],
+  "BNBUP/USDT": [
+    {
+      "timestamp": 1756474580681,
+      "volume": 159397.3964
+    }
+  ],
+  "BNBDOWN/USDT": [
+    {
+      "timestamp": 1756474581374,
+      "volume": 193404.6782673
+    }
+  ],
+  "XTZUP/USDT": [
+    {
+      "timestamp": 1756474581647,
+      "volume": 0
+    }
+  ],
+  "XTZDOWN/USDT": [
+    {
+      "timestamp": 1756474582025,
+      "volume": 0
+    }
+  ],
+  "MANA/USDT": [
+    {
+      "timestamp": 1756474582312,
+      "volume": 2701749.3536
+    }
+  ],
+  "AUD/USDT": [
+    {
+      "timestamp": 1756474582586,
+      "volume": 454709.7872
+    }
+  ],
+  "YFI/USDT": [
+    {
+      "timestamp": 1756474582905,
+      "volume": 2105518.24655
+    }
+  ],
+  "BAL/USDT": [
+    {
+      "timestamp": 1756474583196,
+      "volume": 231043.32076
+    }
+  ],
+  "BLZ/USDT": [
+    {
+      "timestamp": 1756474583485,
+      "volume": 881426.1307
+    }
+  ],
+  "IRIS/USDT": [
+    {
+      "timestamp": 1756474583783,
+      "volume": 379455.50186
+    }
+  ],
+  "KMD/USDT": [
+    {
+      "timestamp": 1756474584281,
+      "volume": 215280.2414
+    }
+  ],
+  "JST/USDT": [
+    {
+      "timestamp": 1756474584551,
+      "volume": 3686823.072336
+    }
+  ],
+  "SRM/USDT": [
+    {
+      "timestamp": 1756474584820,
+      "volume": 472900.205855
+    }
+  ],
+  "ANT/USDT": [
+    {
+      "timestamp": 1756474585143,
+      "volume": 549957.8717
+    }
+  ],
+  "CRV/USDT": [
+    {
+      "timestamp": 1756474585478,
+      "volume": 20229009.69113
+    }
+  ],
+  "SAND/USDT": [
+    {
+      "timestamp": 1756474585790,
+      "volume": 6635552.2366
+    }
+  ],
+  "OCEAN/USDT": [
+    {
+      "timestamp": 1756474586080,
+      "volume": 397142.0297
+    }
+  ],
+  "NMR/USDT": [
+    {
+      "timestamp": 1756474586362,
+      "volume": 70938598.0124
+    }
+  ],
+  "DOT/USDT": [
+    {
+      "timestamp": 1756474586659,
+      "volume": 42323289.85854
+    }
+  ],
+  "LUNA/USDT": [
+    {
+      "timestamp": 1756474586961,
+      "volume": 1825012.488672
+    }
+  ],
+  "RSR/USDT": [
+    {
+      "timestamp": 1756474587247,
+      "volume": 4120451.7726419
+    }
+  ],
+  "PAXG/USDT": [
+    {
+      "timestamp": 1756474587955,
+      "volume": 11902177.683211
+    }
+  ],
+  "WNXM/USDT": [
+    {
+      "timestamp": 1756474588236,
+      "volume": 177656.5217
+    }
+  ],
+  "TRB/USDT": [
+    {
+      "timestamp": 1756474588555,
+      "volume": 5719766.3769
+    }
+  ],
+  "BZRX/USDT": [
+    {
+      "timestamp": 1756474588867,
+      "volume": 0
+    }
+  ],
+  "SUSHI/USDT": [
+    {
+      "timestamp": 1756474589167,
+      "volume": 5722678.8306
+    }
+  ],
+  "YFII/USDT": [
+    {
+      "timestamp": 1756474589462,
+      "volume": 762617.42137
+    }
+  ],
+  "KSM/USDT": [
+    {
+      "timestamp": 1756474589732,
+      "volume": 1997409.10057
+    }
+  ],
+  "EGLD/USDT": [
+    {
+      "timestamp": 1756474590028,
+      "volume": 3519795.4478
+    }
+  ],
+  "DIA/USDT": [
+    {
+      "timestamp": 1756474590331,
+      "volume": 1752399.65223
+    }
+  ],
+  "RUNE/USDT": [
+    {
+      "timestamp": 1756474590621,
+      "volume": 10220116.9214
+    }
+  ],
+  "FIO/USDT": [
+    {
+      "timestamp": 1756474590917,
+      "volume": 1043898.89742
+    }
+  ],
+  "UMA/USDT": [
+    {
+      "timestamp": 1756474591205,
+      "volume": 4698321.6444
+    }
+  ],
+  "EOSUP/USDT": [
+    {
+      "timestamp": 1756474591499,
+      "volume": 0
+    }
+  ],
+  "EOSDOWN/USDT": [
+    {
+      "timestamp": 1756474591798,
+      "volume": 0
+    }
+  ],
+  "TRXUP/USDT": [
+    {
+      "timestamp": 1756474592105,
+      "volume": 140483.6042582
+    }
+  ],
+  "TRXDOWN/USDT": [
+    {
+      "timestamp": 1756474592386,
+      "volume": 185849.63918
+    }
+  ],
+  "XRPUP/USDT": [
+    {
+      "timestamp": 1756474592665,
+      "volume": 218694.288049
+    }
+  ],
+  "XRPDOWN/USDT": [
+    {
+      "timestamp": 1756474592962,
+      "volume": 149761.85290816
+    }
+  ],
+  "DOTUP/USDT": [
+    {
+      "timestamp": 1756474593257,
+      "volume": 206623.04941
+    }
+  ],
+  "DOTDOWN/USDT": [
+    {
+      "timestamp": 1756474593536,
+      "volume": 179146.38326
+    }
+  ],
+  "BEL/USDT": [
+    {
+      "timestamp": 1756474593826,
+      "volume": 970996.33239
+    }
+  ],
+  "WING/USDT": [
+    {
+      "timestamp": 1756474594116,
+      "volume": 334298.94935
+    }
+  ],
+  "LTCUP/USDT": [
+    {
+      "timestamp": 1756474594405,
+      "volume": 0
+    }
+  ],
+  "LTCDOWN/USDT": [
+    {
+      "timestamp": 1756474594754,
+      "volume": 0
+    }
+  ],
+  "UNI/USDT": [
+    {
+      "timestamp": 1756474595033,
+      "volume": 52867505.56146
+    }
+  ],
+  "NBS/USDT": [
+    {
+      "timestamp": 1756474595325,
+      "volume": 568886.572924
+    }
+  ],
+  "OXT/USDT": [
+    {
+      "timestamp": 1756474595623,
+      "volume": 689137.6524
+    }
+  ],
+  "SUN/USDT": [
+    {
+      "timestamp": 1756474596016,
+      "volume": 2657112.88416
+    }
+  ],
+  "AVAX/USDT": [
+    {
+      "timestamp": 1756474596348,
+      "volume": 92988962.1592
+    }
+  ],
+  "HNT/USDT": [
+    {
+      "timestamp": 1756474596653,
+      "volume": 863151.1729
+    }
+  ],
+  "FLM/USDT": [
+    {
+      "timestamp": 1756474596958,
+      "volume": 735411.6632
+    }
+  ],
+  "UNIUP/USDT": [
+    {
+      "timestamp": 1756474597288,
+      "volume": 0
+    }
+  ],
+  "UNIDOWN/USDT": [
+    {
+      "timestamp": 1756474597735,
+      "volume": 0
+    }
+  ],
+  "ORN/USDT": [
+    {
+      "timestamp": 1756474598017,
+      "volume": 495531.1276
+    }
+  ],
+  "UTK/USDT": [
+    {
+      "timestamp": 1756474598303,
+      "volume": 412316.37283
+    }
+  ],
+  "XVS/USDT": [
+    {
+      "timestamp": 1756474598578,
+      "volume": 814268.5405
+    }
+  ],
+  "ALPHA/USDT": [
+    {
+      "timestamp": 1756474598871,
+      "volume": 420453.1765
+    }
+  ],
+  "AAVE/USDT": [
+    {
+      "timestamp": 1756474599167,
+      "volume": 68254804.78202
+    }
+  ],
+  "NEAR/USDT": [
+    {
+      "timestamp": 1756474599744,
+      "volume": 31317977.22
+    }
+  ],
+  "SXPUP/USDT": [
+    {
+      "timestamp": 1756474600021,
+      "volume": 0
+    }
+  ],
+  "SXPDOWN/USDT": [
+    {
+      "timestamp": 1756474600297,
+      "volume": 0
+    }
+  ],
+  "FIL/USDT": [
+    {
+      "timestamp": 1756474600610,
+      "volume": 19916512.84955
+    }
+  ],
+  "FILUP/USDT": [
+    {
+      "timestamp": 1756474600923,
+      "volume": 0
+    }
+  ],
+  "FILDOWN/USDT": [
+    {
+      "timestamp": 1756474601203,
+      "volume": 0
+    }
+  ],
+  "YFIUP/USDT": [
+    {
+      "timestamp": 1756474601509,
+      "volume": 0
+    }
+  ],
+  "YFIDOWN/USDT": [
+    {
+      "timestamp": 1756474601820,
+      "volume": 0
+    }
+  ],
+  "INJ/USDT": [
+    {
+      "timestamp": 1756474602105,
+      "volume": 18422434.722
+    }
+  ],
+  "AUDIO/USDT": [
+    {
+      "timestamp": 1756474602468,
+      "volume": 801757.03809
+    }
+  ],
+  "CTK/USDT": [
+    {
+      "timestamp": 1756474602735,
+      "volume": 2179654.00026
+    }
+  ],
+  "BCHUP/USDT": [
+    {
+      "timestamp": 1756474603038,
+      "volume": 0
+    }
+  ],
+  "BCHDOWN/USDT": [
+    {
+      "timestamp": 1756474603333,
+      "volume": 0
+    }
+  ],
+  "AKRO/USDT": [
+    {
+      "timestamp": 1756474603664,
+      "volume": 204099.220468
+    }
+  ],
+  "AXS/USDT": [
+    {
+      "timestamp": 1756474604010,
+      "volume": 3615621.37611
+    }
+  ],
+  "HARD/USDT": [
+    {
+      "timestamp": 1756474604393,
+      "volume": 138020.6777
+    }
+  ],
+  "DNT/USDT": [
+    {
+      "timestamp": 1756474604701,
+      "volume": 775093.2743
+    }
+  ],
+  "STRAX/USDT": [
+    {
+      "timestamp": 1756474605016,
+      "volume": 1356978.05047
+    }
+  ],
+  "UNFI/USDT": [
+    {
+      "timestamp": 1756474605319,
+      "volume": 389135.2309
+    }
+  ],
+  "ROSE/USDT": [
+    {
+      "timestamp": 1756474605617,
+      "volume": 2825083.680452
+    }
+  ],
+  "AVA/USDT": [
+    {
+      "timestamp": 1756474605886,
+      "volume": 711634.09448
+    }
+  ],
+  "XEM/USDT": [
+    {
+      "timestamp": 1756474606156,
+      "volume": 299857.23906
+    }
+  ],
+  "AAVEUP/USDT": [
+    {
+      "timestamp": 1756474606432,
+      "volume": 0
+    }
+  ],
+  "AAVEDOWN/USDT": [
+    {
+      "timestamp": 1756474606715,
+      "volume": 0
+    }
+  ],
+  "SKL/USDT": [
+    {
+      "timestamp": 1756474606986,
+      "volume": 3484323.87732
+    }
+  ],
+  "SUSD/USDT": [
+    {
+      "timestamp": 1756474607257,
+      "volume": 0
+    }
+  ],
+  "SUSHIUP/USDT": [
+    {
+      "timestamp": 1756474607528,
+      "volume": 0
+    }
+  ],
+  "SUSHIDOWN/USDT": [
+    {
+      "timestamp": 1756474607799,
+      "volume": 0
+    }
+  ],
+  "XLMUP/USDT": [
+    {
+      "timestamp": 1756474608092,
+      "volume": 0
+    }
+  ],
+  "XLMDOWN/USDT": [
+    {
+      "timestamp": 1756474608412,
+      "volume": 0
+    }
+  ],
+  "GRT/USDT": [
+    {
+      "timestamp": 1756474608730,
+      "volume": 5483124.8035
+    }
+  ],
+  "JUV/USDT": [
+    {
+      "timestamp": 1756474609039,
+      "volume": 3809131.92596
+    }
+  ],
+  "PSG/USDT": [
+    {
+      "timestamp": 1756474609328,
+      "volume": 1228192.63353
+    }
+  ],
+  "1INCH/USDT": [
+    {
+      "timestamp": 1756474609623,
+      "volume": 2516728.38638
+    }
+  ],
+  "REEF/USDT": [
+    {
+      "timestamp": 1756474609914,
+      "volume": 389266.024341
+    }
+  ],
+  "OG/USDT": [
+    {
+      "timestamp": 1756474610195,
+      "volume": 2261527.306
+    }
+  ],
+  "ATM/USDT": [
+    {
+      "timestamp": 1756474610519,
+      "volume": 1233597.23255
+    }
+  ],
+  "ASR/USDT": [
+    {
+      "timestamp": 1756474610818,
+      "volume": 6179226.2132
+    }
+  ],
+  "CELO/USDT": [
+    {
+      "timestamp": 1756474611121,
+      "volume": 2602395.1334
+    }
+  ],
+  "RIF/USDT": [
+    {
+      "timestamp": 1756474611394,
+      "volume": 405369.5688
+    }
+  ],
+  "BTCST/USDT": [
+    {
+      "timestamp": 1756474611669,
+      "volume": 662594.7346
+    }
+  ],
+  "TRU/USDT": [
+    {
+      "timestamp": 1756474611970,
+      "volume": 1467166.9402
+    }
+  ],
+  "CKB/USDT": [
+    {
+      "timestamp": 1756474612240,
+      "volume": 6129903.462375
+    }
+  ],
+  "TWT/USDT": [
+    {
+      "timestamp": 1756474612509,
+      "volume": 1115962.8066
+    }
+  ],
+  "FIRO/USDT": [
+    {
+      "timestamp": 1756474612809,
+      "volume": 415626.4836
+    }
+  ],
+  "LIT/USDT": [
+    {
+      "timestamp": 1756474613090,
+      "volume": 799655.0663
+    }
+  ],
+  "SFP/USDT": [
+    {
+      "timestamp": 1756474613394,
+      "volume": 513434.517
+    }
+  ],
+  "DODO/USDT": [
+    {
+      "timestamp": 1756474613704,
+      "volume": 684937.23868
+    }
+  ],
+  "CAKE/USDT": [
+    {
+      "timestamp": 1756474614015,
+      "volume": 11007558.54748
+    }
+  ],
+  "ACM/USDT": [
+    {
+      "timestamp": 1756474614302,
+      "volume": 2898938.0109
+    }
+  ],
+  "BADGER/USDT": [
+    {
+      "timestamp": 1756474614626,
+      "volume": 183491.40946
+    }
+  ],
+  "FIS/USDT": [
+    {
+      "timestamp": 1756474615572,
+      "volume": 1369965.0211
+    }
+  ],
+  "OM/USDT": [
+    {
+      "timestamp": 1756474615861,
+      "volume": 14051882.75705
+    }
+  ],
+  "POND/USDT": [
+    {
+      "timestamp": 1756474616137,
+      "volume": 707641.86702
+    }
+  ],
+  "DEGO/USDT": [
+    {
+      "timestamp": 1756474616422,
+      "volume": 841895.26198
+    }
+  ],
+  "ALICE/USDT": [
+    {
+      "timestamp": 1756474616692,
+      "volume": 1163623.169025
+    }
+  ],
+  "LINA/USDT": [
+    {
+      "timestamp": 1756474616994,
+      "volume": 176157.586951
+    }
+  ],
+  "PERP/USDT": [
+    {
+      "timestamp": 1756474617294,
+      "volume": 604814.029692
+    }
+  ],
+  "RAMP/USDT": [
+    {
+      "timestamp": 1756474617594,
+      "volume": 0
+    }
+  ],
+  "SUPER/USDT": [
+    {
+      "timestamp": 1756474617867,
+      "volume": 2671382.7708
+    }
+  ],
+  "CFX/USDT": [
+    {
+      "timestamp": 1756474618148,
+      "volume": 38495596.7622
+    }
+  ],
+  "EPS/USDT": [
+    {
+      "timestamp": 1756474618434,
+      "volume": 0
+    }
+  ],
+  "AUTO/USDT": [
+    {
+      "timestamp": 1756474618712,
+      "volume": 570865.3382
+    }
+  ],
+  "TKO/USDT": [
+    {
+      "timestamp": 1756474619022,
+      "volume": 1061080.91121
+    }
+  ],
+  "PUNDIX/USDT": [
+    {
+      "timestamp": 1756474619292,
+      "volume": 1048228.35224
+    }
+  ],
+  "TLM/USDT": [
+    {
+      "timestamp": 1756474619586,
+      "volume": 1018086.43209
+    }
+  ],
+  "1INCHUP/USDT": [
+    {
+      "timestamp": 1756474619935,
+      "volume": 0
+    }
+  ],
+  "1INCHDOWN/USDT": [
+    {
+      "timestamp": 1756474620216,
+      "volume": 0
+    }
+  ],
+  "BTG/USDT": [
+    {
+      "timestamp": 1756474620499,
+      "volume": 723201.9681
+    }
+  ],
+  "MIR/USDT": [
+    {
+      "timestamp": 1756474620792,
+      "volume": 528567.844509
+    }
+  ],
+  "BAR/USDT": [
+    {
+      "timestamp": 1756474621092,
+      "volume": 1100890.51966
+    }
+  ],
+  "FORTH/USDT": [
+    {
+      "timestamp": 1756474621387,
+      "volume": 856263.26863
+    }
+  ],
+  "BAKE/USDT": [
+    {
+      "timestamp": 1756474621695,
+      "volume": 1106592.31555
+    }
+  ],
+  "BURGER/USDT": [
+    {
+      "timestamp": 1756474622005,
+      "volume": 216978.21736
+    }
+  ],
+  "SLP/USDT": [
+    {
+      "timestamp": 1756474622302,
+      "volume": 1047024.89937
+    }
+  ],
+  "SHIB/USDT": [
+    {
+      "timestamp": 1756474622608,
+      "volume": 16716219.1890882
+    }
+  ],
+  "ICP/USDT": [
+    {
+      "timestamp": 1756474622910,
+      "volume": 10591458.57155
+    }
+  ],
+  "AR/USDT": [
+    {
+      "timestamp": 1756474623195,
+      "volume": 6145778.4529
+    }
+  ],
+  "POLS/USDT": [
+    {
+      "timestamp": 1756474623886,
+      "volume": 285231.01397
+    }
+  ],
+  "MDX/USDT": [
+    {
+      "timestamp": 1756474624644,
+      "volume": 314138.785907
+    }
+  ],
+  "MASK/USDT": [
+    {
+      "timestamp": 1756474624941,
+      "volume": 2138004.2746
+    }
+  ],
+  "LPT/USDT": [
+    {
+      "timestamp": 1756474625230,
+      "volume": 23212374.75198
+    }
+  ],
+  "NU/USDT": [
+    {
+      "timestamp": 1756474625494,
+      "volume": 0
+    }
+  ],
+  "XVG/USDT": [
+    {
+      "timestamp": 1756474625755,
+      "volume": 1641915.950588
+    }
+  ],
+  "ATA/USDT": [
+    {
+      "timestamp": 1756474626034,
+      "volume": 497654.7257
+    }
+  ],
+  "GTC/USDT": [
+    {
+      "timestamp": 1756474626343,
+      "volume": 1351221.5086
+    }
+  ],
+  "TORN/USDT": [
+    {
+      "timestamp": 1756474626624,
+      "volume": 490754.2787
+    }
+  ],
+  "KEEP/USDT": [
+    {
+      "timestamp": 1756474627065,
+      "volume": 0
+    }
+  ],
+  "ERN/USDT": [
+    {
+      "timestamp": 1756474627373,
+      "volume": 639411.6946
+    }
+  ],
+  "KLAY/USDT": [
+    {
+      "timestamp": 1756474627741,
+      "volume": 865849.95174
+    }
+  ],
+  "PHA/USDT": [
+    {
+      "timestamp": 1756474628018,
+      "volume": 2901916.3678
+    }
+  ],
+  "BOND/USDT": [
+    {
+      "timestamp": 1756474628288,
+      "volume": 704422.82223
+    }
+  ],
+  "MLN/USDT": [
+    {
+      "timestamp": 1756474628558,
+      "volume": 1486878.35115
+    }
+  ],
+  "DEXE/USDT": [
+    {
+      "timestamp": 1756474628832,
+      "volume": 490683.55421
+    }
+  ],
+  "C98/USDT": [
+    {
+      "timestamp": 1756474629112,
+      "volume": 2722757.76962
+    }
+  ],
+  "CLV/USDT": [
+    {
+      "timestamp": 1756474629397,
+      "volume": 349014.844454
+    }
+  ],
+  "QNT/USDT": [
+    {
+      "timestamp": 1756474629661,
+      "volume": 2462868.43437
+    }
+  ],
+  "FLOW/USDT": [
+    {
+      "timestamp": 1756474629932,
+      "volume": 7823701.4543
+    }
+  ],
+  "TVK/USDT": [
+    {
+      "timestamp": 1756474630212,
+      "volume": 1009874.25101
+    }
+  ],
+  "MINA/USDT": [
+    {
+      "timestamp": 1756474630531,
+      "volume": 3517142.51915
+    }
+  ],
+  "RAY/USDT": [
+    {
+      "timestamp": 1756474630982,
+      "volume": 29368578.0851
+    }
+  ],
+  "FARM/USDT": [
+    {
+      "timestamp": 1756474631324,
+      "volume": 943336.78895
+    }
+  ],
+  "ALPACA/USDT": [
+    {
+      "timestamp": 1756474631604,
+      "volume": 274900.36652
+    }
+  ],
+  "QUICK/USDT": [
+    {
+      "timestamp": 1756474631872,
+      "volume": 1236236.42778
+    }
+  ],
+  "MBOX/USDT": [
+    {
+      "timestamp": 1756474632165,
+      "volume": 1155555.55033
+    }
+  ],
+  "FOR/USDT": [
+    {
+      "timestamp": 1756474632459,
+      "volume": 369393.67526
+    }
+  ],
+  "REQ/USDT": [
+    {
+      "timestamp": 1756474632776,
+      "volume": 428777.0685
+    }
+  ],
+  "GHST/USDT": [
+    {
+      "timestamp": 1756474633125,
+      "volume": 547079.8075
+    }
+  ],
+  "WAXP/USDT": [
+    {
+      "timestamp": 1756474633415,
+      "volume": 458521.56526
+    }
+  ],
+  "TRIBE/USDT": [
+    {
+      "timestamp": 1756474633680,
+      "volume": 485272.655
+    }
+  ],
+  "GNO/USDT": [
+    {
+      "timestamp": 1756474633941,
+      "volume": 275579.73488
+    }
+  ],
+  "XEC/USDT": [
+    {
+      "timestamp": 1756474634235,
+      "volume": 810304.54497776
+    }
+  ],
+  "ELF/USDT": [
+    {
+      "timestamp": 1756474634550,
+      "volume": 636799.68008
+    }
+  ],
+  "DYDX/USDT": [
+    {
+      "timestamp": 1756474634827,
+      "volume": 5122880.756524
+    }
+  ],
+  "POLY/USDT": [
+    {
+      "timestamp": 1756474635136,
+      "volume": 1490337.78753
+    }
+  ],
+  "IDEX/USDT": [
+    {
+      "timestamp": 1756474635450,
+      "volume": 784631.239171
+    }
+  ],
+  "VIDT/USDT": [
+    {
+      "timestamp": 1756474635805,
+      "volume": 183519.31426
+    }
+  ],
+  "USDP/USDT": [
+    {
+      "timestamp": 1756474636063,
+      "volume": 894457.411
+    }
+  ],
+  "GALA/USDT": [
+    {
+      "timestamp": 1756474636330,
+      "volume": 15889352.87061
+    }
+  ],
+  "ILV/USDT": [
+    {
+      "timestamp": 1756474636600,
+      "volume": 2067246.59013
+    }
+  ],
+  "YGG/USDT": [
+    {
+      "timestamp": 1756474636924,
+      "volume": 3729734.27947
+    }
+  ],
+  "SYS/USDT": [
+    {
+      "timestamp": 1756474637206,
+      "volume": 500343.0103
+    }
+  ],
+  "DF/USDT": [
+    {
+      "timestamp": 1756474637510,
+      "volume": 584265.04866
+    }
+  ],
+  "FIDA/USDT": [
+    {
+      "timestamp": 1756474637846,
+      "volume": 8173429.93119
+    }
+  ],
+  "FRONT/USDT": [
+    {
+      "timestamp": 1756474638262,
+      "volume": 548328.1538
+    }
+  ],
+  "CVP/USDT": [
+    {
+      "timestamp": 1756474638621,
+      "volume": 428914.93213
+    }
+  ],
+  "AGLD/USDT": [
+    {
+      "timestamp": 1756474638931,
+      "volume": 4765200.9566
+    }
+  ],
+  "RAD/USDT": [
+    {
+      "timestamp": 1756474639218,
+      "volume": 1505065.3459
+    }
+  ],
+  "BETA/USDT": [
+    {
+      "timestamp": 1756474639775,
+      "volume": 296136.47499
+    }
+  ],
+  "RARE/USDT": [
+    {
+      "timestamp": 1756474640090,
+      "volume": 3889700.75047
+    }
+  ],
+  "LAZIO/USDT": [
+    {
+      "timestamp": 1756474640368,
+      "volume": 863753.92288
+    }
+  ],
+  "CHESS/USDT": [
+    {
+      "timestamp": 1756474640657,
+      "volume": 963335.494765
+    }
+  ],
+  "ADX/USDT": [
+    {
+      "timestamp": 1756474640956,
+      "volume": 700827.3466
+    }
+  ],
+  "AUCTION/USDT": [
+    {
+      "timestamp": 1756474641243,
+      "volume": 2406120.6532
+    }
+  ],
+  "DAR/USDT": [
+    {
+      "timestamp": 1756474641550,
+      "volume": 720889.29232
+    }
+  ],
+  "BNX/USDT": [
+    {
+      "timestamp": 1756474641836,
+      "volume": 768036.30934
+    }
+  ],
+  "RGT/USDT": [
+    {
+      "timestamp": 1756474642378,
+      "volume": 0
+    }
+  ],
+  "MOVR/USDT": [
+    {
+      "timestamp": 1756474642666,
+      "volume": 2052916.400111
+    }
+  ],
+  "CITY/USDT": [
+    {
+      "timestamp": 1756474642932,
+      "volume": 7724690.92497
+    }
+  ],
+  "ENS/USDT": [
+    {
+      "timestamp": 1756474643208,
+      "volume": 7224921.6232
+    }
+  ],
+  "KP3R/USDT": [
+    {
+      "timestamp": 1756474643507,
+      "volume": 367918.2188
+    }
+  ],
+  "QI/USDT": [
+    {
+      "timestamp": 1756474643791,
+      "volume": 476191.6475
+    }
+  ],
+  "PORTO/USDT": [
+    {
+      "timestamp": 1756474644076,
+      "volume": 806946.71568
+    }
+  ],
+  "POWR/USDT": [
+    {
+      "timestamp": 1756474644366,
+      "volume": 455608.1288
+    }
+  ],
+  "VGX/USDT": [
+    {
+      "timestamp": 1756474644663,
+      "volume": 515639.20639
+    }
+  ],
+  "JASMY/USDT": [
+    {
+      "timestamp": 1756474644967,
+      "volume": 3043133.336153
+    }
+  ],
+  "AMP/USDT": [
+    {
+      "timestamp": 1756474645495,
+      "volume": 1362196.064916
+    }
+  ],
+  "PLA/USDT": [
+    {
+      "timestamp": 1756474645772,
+      "volume": 802650.287482
+    }
+  ],
+  "PYR/USDT": [
+    {
+      "timestamp": 1756474646032,
+      "volume": 1433981.908275
+    }
+  ],
+  "RNDR/USDT": [
+    {
+      "timestamp": 1756474646311,
+      "volume": 1634692.1774
+    }
+  ],
+  "ALCX/USDT": [
+    {
+      "timestamp": 1756474646596,
+      "volume": 437739.694996
+    }
+  ],
+  "SANTOS/USDT": [
+    {
+      "timestamp": 1756474646873,
+      "volume": 2658768.89707
+    }
+  ],
+  "MC/USDT": [
+    {
+      "timestamp": 1756474647155,
+      "volume": 628174.819094
+    }
+  ],
+  "ANY/USDT": [
+    {
+      "timestamp": 1756474647434,
+      "volume": 0
+    }
+  ],
+  "BICO/USDT": [
+    {
+      "timestamp": 1756474647726,
+      "volume": 2887840.34066
+    }
+  ],
+  "FLUX/USDT": [
+    {
+      "timestamp": 1756474648032,
+      "volume": 977563.352805
+    }
+  ],
+  "FXS/USDT": [
+    {
+      "timestamp": 1756474648337,
+      "volume": 1956258.2513
+    }
+  ],
+  "VOXEL/USDT": [
+    {
+      "timestamp": 1756474648640,
+      "volume": 693822.02635
+    }
+  ],
+  "HIGH/USDT": [
+    {
+      "timestamp": 1756474648956,
+      "volume": 1052594.647132
+    }
+  ],
+  "CVX/USDT": [
+    {
+      "timestamp": 1756474649255,
+      "volume": 2800412.607206
+    }
+  ],
+  "PEOPLE/USDT": [
+    {
+      "timestamp": 1756474649556,
+      "volume": 6274244.602393
+    }
+  ],
+  "OOKI/USDT": [
+    {
+      "timestamp": 1756474649838,
+      "volume": 712370.498025
+    }
+  ],
+  "SPELL/USDT": [
+    {
+      "timestamp": 1756474650111,
+      "volume": 1053200.0856373
+    }
+  ],
+  "UST/USDT": [
+    {
+      "timestamp": 1756474650409,
+      "volume": 0
+    }
+  ],
+  "JOE/USDT": [
+    {
+      "timestamp": 1756474650702,
+      "volume": 1410882.425686
+    }
+  ],
+  "ACH/USDT": [
+    {
+      "timestamp": 1756474651022,
+      "volume": 3382435.71656
+    }
+  ],
+  "IMX/USDT": [
+    {
+      "timestamp": 1756474651319,
+      "volume": 3974054.84849
+    }
+  ],
+  "GLMR/USDT": [
+    {
+      "timestamp": 1756474651614,
+      "volume": 1110563.0509
+    }
+  ],
+  "LOKA/USDT": [
+    {
+      "timestamp": 1756474651886,
+      "volume": 898447.18098
+    }
+  ],
+  "SCRT/USDT": [
+    {
+      "timestamp": 1756474652151,
+      "volume": 471459.0174
+    }
+  ],
+  "API3/USDT": [
+    {
+      "timestamp": 1756474652433,
+      "volume": 5625486.826452
+    }
+  ],
+  "BTTC/USDT": [
+    {
+      "timestamp": 1756474652729,
+      "volume": 637525.25337743
+    }
+  ],
+  "ACA/USDT": [
+    {
+      "timestamp": 1756474653032,
+      "volume": 1538186.582126
+    }
+  ],
+  "ANC/USDT": [
+    {
+      "timestamp": 1756474653348,
+      "volume": 653323.4820719
+    }
+  ],
+  "XNO/USDT": [
+    {
+      "timestamp": 1756474653667,
+      "volume": 439548.10163
+    }
+  ],
+  "WOO/USDT": [
+    {
+      "timestamp": 1756474653964,
+      "volume": 932902.02251
+    }
+  ],
+  "ALPINE/USDT": [
+    {
+      "timestamp": 1756474654266,
+      "volume": 3415227.24389
+    }
+  ],
+  "T/USDT": [
+    {
+      "timestamp": 1756474654576,
+      "volume": 784228.853422
+    }
+  ],
+  "ASTR/USDT": [
+    {
+      "timestamp": 1756474654863,
+      "volume": 1430181.056387
+    }
+  ],
+  "GMT/USDT": [
+    {
+      "timestamp": 1756474655153,
+      "volume": 6296150.40815
+    }
+  ],
+  "KDA/USDT": [
+    {
+      "timestamp": 1756474655445,
+      "volume": 2276739.433559
+    }
+  ],
+  "APE/USDT": [
+    {
+      "timestamp": 1756474655757,
+      "volume": 4207694.545713
+    }
+  ],
+  "BSW/USDT": [
+    {
+      "timestamp": 1756474656044,
+      "volume": 564542.19557
+    }
+  ],
+  "BIFI/USDT": [
+    {
+      "timestamp": 1756474656341,
+      "volume": 251443.3209
+    }
+  ],
+  "MULTI/USDT": [
+    {
+      "timestamp": 1756474656636,
+      "volume": 340180.592301
+    }
+  ],
+  "STEEM/USDT": [
+    {
+      "timestamp": 1756474656989,
+      "volume": 893666.76536
+    }
+  ],
+  "MOB/USDT": [
+    {
+      "timestamp": 1756474657250,
+      "volume": 350633.643459
+    }
+  ],
+  "NEXO/USDT": [
+    {
+      "timestamp": 1756474657590,
+      "volume": 2262900.34367
+    }
+  ],
+  "REI/USDT": [
+    {
+      "timestamp": 1756474657867,
+      "volume": 376821.571361
+    }
+  ],
+  "GAL/USDT": [
+    {
+      "timestamp": 1756474658143,
+      "volume": 1275318.811376
+    }
+  ],
+  "LDO/USDT": [
+    {
+      "timestamp": 1756474658413,
+      "volume": 23852934.616592
+    }
+  ],
+  "EPX/USDT": [
+    {
+      "timestamp": 1756474658674,
+      "volume": 320257.9910375
+    }
+  ],
+  "OP/USDT": [
+    {
+      "timestamp": 1756474659228,
+      "volume": 32669372.112643
+    }
+  ],
+  "LEVER/USDT": [
+    {
+      "timestamp": 1756474659486,
+      "volume": 388103.817578
+    }
+  ],
+  "STG/USDT": [
+    {
+      "timestamp": 1756474659735,
+      "volume": 13581722.15659
+    }
+  ],
+  "LUNC/USDT": [
+    {
+      "timestamp": 1756474660010,
+      "volume": 2551940.79445593
+    }
+  ],
+  "GMX/USDT": [
+    {
+      "timestamp": 1756474660301,
+      "volume": 1434580.36116
+    }
+  ],
+  "NEBL/USDT": [
+    {
+      "timestamp": 1756474660574,
+      "volume": 522050.8291
+    }
+  ],
+  "POLYX/USDT": [
+    {
+      "timestamp": 1756474660838,
+      "volume": 999971.51295
+    }
+  ],
+  "APT/USDT": [
+    {
+      "timestamp": 1756474661111,
+      "volume": 22607209.3219
+    }
+  ],
+  "OSMO/USDT": [
+    {
+      "timestamp": 1756474661399,
+      "volume": 619451.560998
+    }
+  ],
+  "HFT/USDT": [
+    {
+      "timestamp": 1756474661674,
+      "volume": 2158682.05562
+    }
+  ],
+  "PHB/USDT": [
+    {
+      "timestamp": 1756474661937,
+      "volume": 4277094.8727
+    }
+  ],
+  "HOOK/USDT": [
+    {
+      "timestamp": 1756474662206,
+      "volume": 9627074.05
+    }
+  ],
+  "MAGIC/USDT": [
+    {
+      "timestamp": 1756474662527,
+      "volume": 3526654.61905
+    }
+  ],
+  "HIFI/USDT": [
+    {
+      "timestamp": 1756474662805,
+      "volume": 938064.09442
+    }
+  ],
+  "RPL/USDT": [
+    {
+      "timestamp": 1756474663079,
+      "volume": 1497526.016
+    }
+  ],
+  "PROS/USDT": [
+    {
+      "timestamp": 1756474663351,
+      "volume": 112537.9207
+    }
+  ],
+  "AGIX/USDT": [
+    {
+      "timestamp": 1756474663626,
+      "volume": 787207.7244
+    }
+  ],
+  "GNS/USDT": [
+    {
+      "timestamp": 1756474663890,
+      "volume": 631644.74612
+    }
+  ],
+  "SYN/USDT": [
+    {
+      "timestamp": 1756474664164,
+      "volume": 921108.92564
+    }
+  ],
+  "VIB/USDT": [
+    {
+      "timestamp": 1756474664463,
+      "volume": 380611.67365
+    }
+  ],
+  "SSV/USDT": [
+    {
+      "timestamp": 1756474664760,
+      "volume": 5945725.184211
+    }
+  ],
+  "LQTY/USDT": [
+    {
+      "timestamp": 1756474665036,
+      "volume": 1730794.9998
+    }
+  ],
+  "AMB/USDT": [
+    {
+      "timestamp": 1756474665308,
+      "volume": 369169.95853
+    }
+  ],
+  "BETH/USDT": [
+    {
+      "timestamp": 1756474665578,
+      "volume": 857076.116741
+    }
+  ],
+  "USTC/USDT": [
+    {
+      "timestamp": 1756474665859,
+      "volume": 1260894.75185
+    }
+  ],
+  "GAS/USDT": [
+    {
+      "timestamp": 1756474666132,
+      "volume": 1586375.9191
+    }
+  ],
+  "GLM/USDT": [
+    {
+      "timestamp": 1756474666416,
+      "volume": 2610760.23781
+    }
+  ],
+  "PROM/USDT": [
+    {
+      "timestamp": 1756474666696,
+      "volume": 1855392.97616
+    }
+  ],
+  "QKC/USDT": [
+    {
+      "timestamp": 1756474666978,
+      "volume": 491817.053807
+    }
+  ],
+  "UFT/USDT": [
+    {
+      "timestamp": 1756474667251,
+      "volume": 107823.8976
+    }
+  ],
+  "ID/USDT": [
+    {
+      "timestamp": 1756474667521,
+      "volume": 31200685.2238
+    }
+  ],
+  "ARB/USDT": [
+    {
+      "timestamp": 1756474667794,
+      "volume": 95149449.04368
+    }
+  ],
+  "LOOM/USDT": [
+    {
+      "timestamp": 1756474668075,
+      "volume": 588914.38603
+    }
+  ],
+  "OAX/USDT": [
+    {
+      "timestamp": 1756474668349,
+      "volume": 202253.7149
+    }
+  ],
+  "RDNT/USDT": [
+    {
+      "timestamp": 1756474668614,
+      "volume": 854844.91926
+    }
+  ],
+  "WBTC/USDT": [
+    {
+      "timestamp": 1756474668884,
+      "volume": 7615004.8139306
+    }
+  ],
+  "EDU/USDT": [
+    {
+      "timestamp": 1756474669162,
+      "volume": 2699378.5123
+    }
+  ],
+  "SUI/USDT": [
+    {
+      "timestamp": 1756474669688,
+      "volume": 161291794.79073
+    }
+  ],
+  "AERGO/USDT": [
+    {
+      "timestamp": 1756474669950,
+      "volume": 96533.1607
+    }
+  ],
+  "PEPE/USDT": [
+    {
+      "timestamp": 1756474670222,
+      "volume": 92161958.08956668
+    }
+  ],
+  "FLOKI/USDT": [
+    {
+      "timestamp": 1756474670483,
+      "volume": 16948569.50094812
+    }
+  ],
+  "AST/USDT": [
+    {
+      "timestamp": 1756474670745,
+      "volume": 105362.9768
+    }
+  ],
+  "SNT/USDT": [
+    {
+      "timestamp": 1756474671009,
+      "volume": 336732.21259
+    }
+  ],
+  "COMBO/USDT": [
+    {
+      "timestamp": 1756474671273,
+      "volume": 320262.66019
+    }
+  ],
+  "MAV/USDT": [
+    {
+      "timestamp": 1756474671555,
+      "volume": 28943847.77781
+    }
+  ],
+  "PENDLE/USDT": [
+    {
+      "timestamp": 1756474671823,
+      "volume": 29354849.1918
+    }
+  ],
+  "ARKM/USDT": [
+    {
+      "timestamp": 1756474672256,
+      "volume": 10187906.6058
+    }
+  ],
+  "WBETH/USDT": [
+    {
+      "timestamp": 1756474672561,
+      "volume": 9085118.246924
+    }
+  ],
+  "WLD/USDT": [
+    {
+      "timestamp": 1756474672832,
+      "volume": 29153413.8761
+    }
+  ],
+  "FDUSD/USDT": [
+    {
+      "timestamp": 1756474673104,
+      "volume": 394580160.9169
+    }
+  ],
+  "SEI/USDT": [
+    {
+      "timestamp": 1756474673375,
+      "volume": 51009866.0807
+    }
+  ],
+  "CYBER/USDT": [
+    {
+      "timestamp": 1756474673643,
+      "volume": 4313372.41706
+    }
+  ],
+  "ARK/USDT": [
+    {
+      "timestamp": 1756474674079,
+      "volume": 1091151.2628
+    }
+  ],
+  "CREAM/USDT": [
+    {
+      "timestamp": 1756474674354,
+      "volume": 276098.07379
+    }
+  ],
+  "GFT/USDT": [
+    {
+      "timestamp": 1756474674629,
+      "volume": 533097.35823
+    }
+  ],
+  "IQ/USDT": [
+    {
+      "timestamp": 1756474674935,
+      "volume": 688669.187138
+    }
+  ],
+  "NTRN/USDT": [
+    {
+      "timestamp": 1756474675212,
+      "volume": 4394477.71403
+    }
+  ],
+  "TIA/USDT": [
+    {
+      "timestamp": 1756474675523,
+      "volume": 16384169.1088
+    }
+  ],
+  "MEME/USDT": [
+    {
+      "timestamp": 1756474675863,
+      "volume": 20733026.298986
+    }
+  ],
+  "ORDI/USDT": [
+    {
+      "timestamp": 1756474676139,
+      "volume": 8947914.41359
+    }
+  ],
+  "BEAMX/USDT": [
+    {
+      "timestamp": 1756474676412,
+      "volume": 5040282.27156
+    }
+  ],
+  "PIVX/USDT": [
+    {
+      "timestamp": 1756474676662,
+      "volume": 423038.7426
+    }
+  ],
+  "VIC/USDT": [
+    {
+      "timestamp": 1756474676931,
+      "volume": 549753.756853
+    }
+  ],
+  "BLUR/USDT": [
+    {
+      "timestamp": 1756474677627,
+      "volume": 5172220.010328
+    }
+  ],
+  "VANRY/USDT": [
+    {
+      "timestamp": 1756474677896,
+      "volume": 2214463.3064
+    }
+  ],
+  "AEUR/USDT": [
+    {
+      "timestamp": 1756474678178,
+      "volume": 44185.58042
+    }
+  ],
+  "JTO/USDT": [
+    {
+      "timestamp": 1756474678445,
+      "volume": 8185177.3679
+    }
+  ],
+  "1000SATS/USDT": [
+    {
+      "timestamp": 1756474678728,
+      "volume": 3383740.07692065
+    }
+  ],
+  "BONK/USDT": [
+    {
+      "timestamp": 1756474678999,
+      "volume": 27202240.87843376
+    }
+  ],
+  "ACE/USDT": [
+    {
+      "timestamp": 1756474679273,
+      "volume": 1910524.3515
+    }
+  ],
+  "NFP/USDT": [
+    {
+      "timestamp": 1756474679546,
+      "volume": 4392722.3695
+    }
+  ],
+  "AI/USDT": [
+    {
+      "timestamp": 1756474679814,
+      "volume": 4107249.2816
+    }
+  ],
+  "XAI/USDT": [
+    {
+      "timestamp": 1756474680083,
+      "volume": 3600420.88137
+    }
+  ],
+  "MANTA/USDT": [
+    {
+      "timestamp": 1756474680345,
+      "volume": 3403422.8542
+    }
+  ],
+  "ALT/USDT": [
+    {
+      "timestamp": 1756474680612,
+      "volume": 4938063.23309
+    }
+  ],
+  "JUP/USDT": [
+    {
+      "timestamp": 1756474680884,
+      "volume": 19073453.19921
+    }
+  ],
+  "PYTH/USDT": [
+    {
+      "timestamp": 1756474681175,
+      "volume": 388424935.26136
+    }
+  ],
+  "RONIN/USDT": [
+    {
+      "timestamp": 1756474681448,
+      "volume": 2963240.00086
+    }
+  ],
+  "DYM/USDT": [
+    {
+      "timestamp": 1756474681727,
+      "volume": 3638560.6218
+    }
+  ],
+  "PIXEL/USDT": [
+    {
+      "timestamp": 1756474682062,
+      "volume": 2034047.184868
+    }
+  ],
+  "STRK/USDT": [
+    {
+      "timestamp": 1756474682323,
+      "volume": 7241014.636816
+    }
+  ],
+  "PORTAL/USDT": [
+    {
+      "timestamp": 1756474682592,
+      "volume": 1959877.79175
+    }
+  ],
+  "PDA/USDT": [
+    {
+      "timestamp": 1756474682857,
+      "volume": 533148.086122
+    }
+  ],
+  "AXL/USDT": [
+    {
+      "timestamp": 1756474683588,
+      "volume": 2414902.23642
+    }
+  ],
+  "WIF/USDT": [
+    {
+      "timestamp": 1756474683873,
+      "volume": 32359454.21436
+    }
+  ],
+  "METIS/USDT": [
+    {
+      "timestamp": 1756474684171,
+      "volume": 2425315.77024
+    }
+  ],
+  "AEVO/USDT": [
+    {
+      "timestamp": 1756474684872,
+      "volume": 1505532.105377
+    }
+  ],
+  "BOME/USDT": [
+    {
+      "timestamp": 1756474685147,
+      "volume": 10825762.417801
+    }
+  ],
+  "ETHFI/USDT": [
+    {
+      "timestamp": 1756474685515,
+      "volume": 20980889.7021
+    }
+  ],
+  "ENA/USDT": [
+    {
+      "timestamp": 1756474685816,
+      "volume": 193610515.032674
+    }
+  ],
+  "W/USDT": [
+    {
+      "timestamp": 1756474686089,
+      "volume": 88737441.43599
+    }
+  ],
+  "TNSR/USDT": [
+    {
+      "timestamp": 1756474686355,
+      "volume": 2041636.28439
+    }
+  ],
+  "SAGA/USDT": [
+    {
+      "timestamp": 1756474686614,
+      "volume": 5762201.43607
+    }
+  ],
+  "TAO/USDT": [
+    {
+      "timestamp": 1756474687055,
+      "volume": 18656917.29482
+    }
+  ],
+  "OMNI/USDT": [
+    {
+      "timestamp": 1756474687344,
+      "volume": 3463176.6965
+    }
+  ],
+  "REZ/USDT": [
+    {
+      "timestamp": 1756474687611,
+      "volume": 2758740.215922
+    }
+  ],
+  "BB/USDT": [
+    {
+      "timestamp": 1756474687882,
+      "volume": 19225912.0242
+    }
+  ],
+  "NOT/USDT": [
+    {
+      "timestamp": 1756474688152,
+      "volume": 3926449.68118
+    }
+  ],
+  "IO/USDT": [
+    {
+      "timestamp": 1756474688438,
+      "volume": 7966887.26803
+    }
+  ],
+  "ZK/USDT": [
+    {
+      "timestamp": 1756474688695,
+      "volume": 12705474.62146
+    }
+  ],
+  "LISTA/USDT": [
+    {
+      "timestamp": 1756474688968,
+      "volume": 2191181.41345
+    }
+  ],
+  "ZRO/USDT": [
+    {
+      "timestamp": 1756474689242,
+      "volume": 26812098.94842
+    }
+  ],
+  "G/USDT": [
+    {
+      "timestamp": 1756474689513,
+      "volume": 843731.28701
+    }
+  ],
+  "BANANA/USDT": [
+    {
+      "timestamp": 1756474689783,
+      "volume": 2733121.59806
+    }
+  ],
+  "RENDER/USDT": [
+    {
+      "timestamp": 1756474690323,
+      "volume": 10645071.17886
+    }
+  ],
+  "TON/USDT": [
+    {
+      "timestamp": 1756474690584,
+      "volume": 29351524.06844
+    }
+  ],
+  "DOGS/USDT": [
+    {
+      "timestamp": 1756474690860,
+      "volume": 2616482.3664576
+    }
+  ],
+  "EURI/USDT": [
+    {
+      "timestamp": 1756474691200,
+      "volume": 1589653.47208
+    }
+  ],
+  "SLF/USDT": [
+    {
+      "timestamp": 1756474691467,
+      "volume": 1069701.2574
+    }
+  ],
+  "POL/USDT": [
+    {
+      "timestamp": 1756474691741,
+      "volume": 31389113.61398
+    }
+  ],
+  "NEIRO/USDT": [
+    {
+      "timestamp": 1756474692328,
+      "volume": 15567207.79586259
+    }
+  ],
+  "TURBO/USDT": [
+    {
+      "timestamp": 1756474692602,
+      "volume": 3642256.34338
+    }
+  ],
+  "1MBABYDOGE/USDT": [
+    {
+      "timestamp": 1756474692867,
+      "volume": 1991251.8209601
+    }
+  ],
+  "CATI/USDT": [
+    {
+      "timestamp": 1756474693151,
+      "volume": 11813627.42849
+    }
+  ],
+  "HMSTR/USDT": [
+    {
+      "timestamp": 1756474693457,
+      "volume": 1268095.702136
+    }
+  ],
+  "EIGEN/USDT": [
+    {
+      "timestamp": 1756474693751,
+      "volume": 10922963.79287
+    }
+  ],
+  "SCR/USDT": [
+    {
+      "timestamp": 1756474694038,
+      "volume": 1921386.2591
+    }
+  ],
+  "BNSOL/USDT": [
+    {
+      "timestamp": 1756474694328,
+      "volume": 5878873.9291
+    }
+  ],
+  "LUMIA/USDT": [
+    {
+      "timestamp": 1756474694633,
+      "volume": 1222066.40821
+    }
+  ],
+  "KAIA/USDT": [
+    {
+      "timestamp": 1756474694928,
+      "volume": 5000213.22475
+    }
+  ],
+  "COW/USDT": [
+    {
+      "timestamp": 1756474695250,
+      "volume": 1331494.56141
+    }
+  ],
+  "CETUS/USDT": [
+    {
+      "timestamp": 1756474695533,
+      "volume": 2554514.19735
+    }
+  ],
+  "PNUT/USDT": [
+    {
+      "timestamp": 1756474695859,
+      "volume": 21702881.68208
+    }
+  ],
+  "ACT/USDT": [
+    {
+      "timestamp": 1756474696162,
+      "volume": 6415032.37383
+    }
+  ],
+  "USUAL/USDT": [
+    {
+      "timestamp": 1756474696449,
+      "volume": 4846202.57783
+    }
+  ],
+  "THE/USDT": [
+    {
+      "timestamp": 1756474696715,
+      "volume": 2847666.44228
+    }
+  ],
+  "ACX/USDT": [
+    {
+      "timestamp": 1756474696995,
+      "volume": 1884696.71649
+    }
+  ],
+  "ORCA/USDT": [
+    {
+      "timestamp": 1756474697268,
+      "volume": 6355043.09218
+    }
+  ],
+  "MOVE/USDT": [
+    {
+      "timestamp": 1756474697550,
+      "volume": 2546487.13664
+    }
+  ],
+  "ME/USDT": [
+    {
+      "timestamp": 1756474697866,
+      "volume": 1611762.29775
+    }
+  ],
+  "VELODROME/USDT": [
+    {
+      "timestamp": 1756474698160,
+      "volume": 875613.42917
+    }
+  ],
+  "VANA/USDT": [
+    {
+      "timestamp": 1756474698456,
+      "volume": 1781535.20663
+    }
+  ],
+  "1000CAT/USDT": [
+    {
+      "timestamp": 1756474698774,
+      "volume": 1064480.314258
+    }
+  ],
+  "PENGU/USDT": [
+    {
+      "timestamp": 1756474699096,
+      "volume": 53296364.504952
+    }
+  ],
+  "BIO/USDT": [
+    {
+      "timestamp": 1756474699426,
+      "volume": 45546720.29361
+    }
+  ],
+  "D/USDT": [
+    {
+      "timestamp": 1756474699705,
+      "volume": 558451.37383
+    }
+  ],
+  "AIXBT/USDT": [
+    {
+      "timestamp": 1756474699995,
+      "volume": 8596558.96762
+    }
+  ],
+  "CGPT/USDT": [
+    {
+      "timestamp": 1756474700296,
+      "volume": 1470003.92794
+    }
+  ],
+  "COOKIE/USDT": [
+    {
+      "timestamp": 1756474700632,
+      "volume": 2303245.60589
+    }
+  ],
+  "S/USDT": [
+    {
+      "timestamp": 1756474700975,
+      "volume": 22813523.16342
+    }
+  ],
+  "SOLV/USDT": [
+    {
+      "timestamp": 1756474701278,
+      "volume": 2149155.36255
+    }
+  ],
+  "TRUMP/USDT": [
+    {
+      "timestamp": 1756474701589,
+      "volume": 33190083.20417
+    }
+  ],
+  "ANIME/USDT": [
+    {
+      "timestamp": 1756474702076,
+      "volume": 1857821.316057
+    }
+  ],
+  "BERA/USDT": [
+    {
+      "timestamp": 1756474702374,
+      "volume": 26993258.191626
+    }
+  ],
+  "1000CHEEMS/USDT": [
+    {
+      "timestamp": 1756474702646,
+      "volume": 3092763.761073
+    }
+  ],
+  "TST/USDT": [
+    {
+      "timestamp": 1756474702914,
+      "volume": 1954176.163045
+    }
+  ],
+  "LAYER/USDT": [
+    {
+      "timestamp": 1756474703198,
+      "volume": 2354584.998209
+    }
+  ],
+  "HEI/USDT": [
+    {
+      "timestamp": 1756474703487,
+      "volume": 5229446.62618
+    }
+  ],
+  "KAITO/USDT": [
+    {
+      "timestamp": 1756474703787,
+      "volume": 3623562.35935
+    }
+  ],
+  "SHELL/USDT": [
+    {
+      "timestamp": 1756474704087,
+      "volume": 4522620.38086
+    }
+  ],
+  "RED/USDT": [
+    {
+      "timestamp": 1756474704381,
+      "volume": 3629205.23594
+    }
+  ],
+  "GPS/USDT": [
+    {
+      "timestamp": 1756474704680,
+      "volume": 3183003.529687
+    }
+  ],
+  "EPIC/USDT": [
+    {
+      "timestamp": 1756474704982,
+      "volume": 3543971.0797
+    }
+  ],
+  "BMT/USDT": [
+    {
+      "timestamp": 1756474705285,
+      "volume": 3405733.7166
+    }
+  ],
+  "FORM/USDT": [
+    {
+      "timestamp": 1756474705579,
+      "volume": 16848357.00265
+    }
+  ],
+  "XUSD/USDT": [
+    {
+      "timestamp": 1756474705865,
+      "volume": 2166034.4642
+    }
+  ],
+  "NIL/USDT": [
+    {
+      "timestamp": 1756474706156,
+      "volume": 1129668.27608
+    }
+  ],
+  "PARTI/USDT": [
+    {
+      "timestamp": 1756474706482,
+      "volume": 5648204.20351
+    }
+  ],
+  "MUBARAK/USDT": [
+    {
+      "timestamp": 1756474706778,
+      "volume": 2478653.775961
+    }
+  ],
+  "TUT/USDT": [
+    {
+      "timestamp": 1756474707078,
+      "volume": 3566969.31368
+    }
+  ],
+  "BROCCOLI714/USDT": [
+    {
+      "timestamp": 1756474707361,
+      "volume": 827388.172
+    }
+  ],
+  "BANANAS31/USDT": [
+    {
+      "timestamp": 1756474707660,
+      "volume": 2455199.624419
+    }
+  ],
+  "GUN/USDT": [
+    {
+      "timestamp": 1756474707957,
+      "volume": 1438159.07495
+    }
+  ],
+  "BABY/USDT": [
+    {
+      "timestamp": 1756474708253,
+      "volume": 2119034.39045
+    }
+  ],
+  "ONDO/USDT": [
+    {
+      "timestamp": 1756474708558,
+      "volume": 22108937.4269
+    }
+  ],
+  "BIGTIME/USDT": [
+    {
+      "timestamp": 1756474708878,
+      "volume": 21558057.44765
+    }
+  ],
+  "VIRTUAL/USDT": [
+    {
+      "timestamp": 1756474709401,
+      "volume": 16180680.9092
+    }
+  ],
+  "KERNEL/USDT": [
+    {
+      "timestamp": 1756474709697,
+      "volume": 4968602.39105
+    }
+  ],
+  "WCT/USDT": [
+    {
+      "timestamp": 1756474709974,
+      "volume": 5280777.10496
+    }
+  ],
+  "HYPER/USDT": [
+    {
+      "timestamp": 1756474710256,
+      "volume": 2995771.5936
+    }
+  ],
+  "INIT/USDT": [
+    {
+      "timestamp": 1756474710539,
+      "volume": 5576419.11322
+    }
+  ],
+  "SIGN/USDT": [
+    {
+      "timestamp": 1756474710815,
+      "volume": 3664381.17633
+    }
+  ],
+  "STO/USDT": [
+    {
+      "timestamp": 1756474711102,
+      "volume": 1414355.09135
+    }
+  ],
+  "SYRUP/USDT": [
+    {
+      "timestamp": 1756474711409,
+      "volume": 20157253.85446
+    }
+  ],
+  "KMNO/USDT": [
+    {
+      "timestamp": 1756474711678,
+      "volume": 2621144.43561
+    }
+  ],
+  "SXT/USDT": [
+    {
+      "timestamp": 1756474711963,
+      "volume": 1326601.5794
+    }
+  ],
+  "NXPC/USDT": [
+    {
+      "timestamp": 1756474712241,
+      "volume": 5097323.77953
+    }
+  ],
+  "AWE/USDT": [
+    {
+      "timestamp": 1756474712543,
+      "volume": 808916.0956
+    }
+  ],
+  "HAEDAL/USDT": [
+    {
+      "timestamp": 1756474712846,
+      "volume": 2060385.63341
+    }
+  ],
+  "USD1/USDT": [
+    {
+      "timestamp": 1756474713155,
+      "volume": 39945493.9457
+    }
+  ],
+  "HUMA/USDT": [
+    {
+      "timestamp": 1756474713433,
+      "volume": 2657667.08719
+    }
+  ],
+  "A/USDT": [
+    {
+      "timestamp": 1756474713735,
+      "volume": 4840533.17911
+    }
+  ],
+  "SOPH/USDT": [
+    {
+      "timestamp": 1756474714040,
+      "volume": 2943259.16413
+    }
+  ],
+  "RESOLV/USDT": [
+    {
+      "timestamp": 1756474714339,
+      "volume": 3016665.90557
+    }
+  ],
+  "HOME/USDT": [
+    {
+      "timestamp": 1756474714630,
+      "volume": 2336768.29108
+    }
+  ],
+  "SPK/USDT": [
+    {
+      "timestamp": 1756474714955,
+      "volume": 6923383.978967
+    }
+  ],
+  "NEWT/USDT": [
+    {
+      "timestamp": 1756474715239,
+      "volume": 1774258.96803
+    }
+  ],
+  "SAHARA/USDT": [
+    {
+      "timestamp": 1756474715538,
+      "volume": 4335932.62022
+    }
+  ],
+  "LA/USDT": [
+    {
+      "timestamp": 1756474715838,
+      "volume": 1701719.08282
+    }
+  ],
+  "ERA/USDT": [
+    {
+      "timestamp": 1756474716153,
+      "volume": 1760407.29071
+    }
+  ],
+  "C/USDT": [
+    {
+      "timestamp": 1756474716458,
+      "volume": 13922257.69139
+    }
+  ],
+  "TREE/USDT": [
+    {
+      "timestamp": 1756474716769,
+      "volume": 37069007.00223
+    }
+  ],
+  "A2Z/USDT": [
+    {
+      "timestamp": 1756474717263,
+      "volume": 6317580.303399
+    }
+  ],
+  "TOWNS/USDT": [
+    {
+      "timestamp": 1756474717612,
+      "volume": 8755655.65909
+    }
+  ],
+  "PROVE/USDT": [
+    {
+      "timestamp": 1756474717897,
+      "volume": 20256381.28335
+    }
+  ],
+  "BFUSD/USDT": [
+    {
+      "timestamp": 1756474718173,
+      "volume": 29314667.3455
+    }
+  ],
+  "PLUME/USDT": [
+    {
+      "timestamp": 1756474718451,
+      "volume": 55140871.79503
+    }
+  ],
+  "DOLO/USDT": [
+    {
+      "timestamp": 1756474718745,
+      "volume": 32991687.75329
+    }
+  ]
+}

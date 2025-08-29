@@ -1,0 +1,20 @@
+{
+  "name": "supertchart-cli",
+  "version": "1.0.0",
+  "description": "SuperTrend chart in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "ccxt": "^4.5.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "supertrend-indicator": "^1.0.6",
+    "technicalindicators": "^3.1.0"
+  }
+}
